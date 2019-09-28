@@ -75,7 +75,7 @@ class ProSites {
 				'pro-sites_page_psts-pricing-settings-network',
 			),
 		);
-		include_once( $this->plugin_dir . 'dash-notice/wpmudev-dash-notification.php' );
+		// include_once( $this->plugin_dir . 'dash-notice/wpmudev-dash-notification.php' );
 
 		// Set global cache group.
 		wp_cache_add_global_groups( array( 'psts', 'blog-details' ) );
