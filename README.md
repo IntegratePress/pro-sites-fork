@@ -1,2 +1,3 @@
-# pro-sites-fork
+# Pro Sites
+
 Fork of WPMUDEV Pro Sites
